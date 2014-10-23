@@ -1,1 +1,7 @@
 MY first text file
+
+add some noise
+
+make a a change
+
+Another change made on a certain day and at a certain time!
