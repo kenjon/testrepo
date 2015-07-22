@@ -1,2 +1,4 @@
 MY first text file
   test text
+
+test 2
